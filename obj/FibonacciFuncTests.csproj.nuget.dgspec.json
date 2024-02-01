@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\1\\Downloads\\Fibonacci\\Fibonacci\\FibonacciFuncTests\\FibonacciFuncTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\1\\Downloads\\Fibonacci\\Fibonacci\\FibonacciFuncTests\\FibonacciFuncTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1\\Downloads\\Fibonacci\\Fibonacci\\FibonacciFuncTests\\FibonacciFuncTests.csproj",
+        "projectName": "FibonacciFuncTests",
+        "projectPath": "C:\\Users\\1\\Downloads\\Fibonacci\\Fibonacci\\FibonacciFuncTests\\FibonacciFuncTests.csproj",
+        "packagesPath": "C:\\Users\\1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\1\\Downloads\\Fibonacci\\Fibonacci\\FibonacciFuncTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "targetAlias": "net46",
+            "projectReferences": {
+              "C:\\Users\\1\\Downloads\\Fibonacci\\Fibonacci\\Fibonacci\\Fibonacci.csproj": {
+                "projectPath": "C:\\Users\\1\\Downloads\\Fibonacci\\Fibonacci\\Fibonacci\\Fibonacci.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net46",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\1\\Downloads\\Fibonacci\\Fibonacci\\Fibonacci\\Fibonacci.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\1\\Downloads\\Fibonacci\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
+        "projectName": "Fibonacci",
+        "projectPath": "C:\\Users\\1\\Downloads\\Fibonacci\\Fibonacci\\Fibonacci\\Fibonacci.csproj",
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {}
+      }
+    }
+  }
+}

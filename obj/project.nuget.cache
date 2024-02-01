@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "p0UjlTZQ2u7LhpZzSWmJI1xTRSK/NyYZ8/D9nFZAG7jEbH6V1pRGQ0I5xtEdd74YQh78gNYBl61NW2YOjYCJ7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\1\\Downloads\\Fibonacci\\Fibonacci\\FibonacciFuncTests\\FibonacciFuncTests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\1\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}
